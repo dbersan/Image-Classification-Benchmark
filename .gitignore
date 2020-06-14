@@ -1,0 +1,6 @@
+model/
+.vscode/
+Dataset/
+.ipynb_checkpoints/
+*.h5
+build/
