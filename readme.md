@@ -1,4 +1,4 @@
-# Image Classification in Tensorflow: python vs C++ 
+# Image Classification in Tensorflow: Python vs C++ 
 
 Simple repository to compare the speed of image classification on python vs C++, on the webcam. 
 
